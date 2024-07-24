@@ -18,5 +18,5 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 - ## Contato
 [(LinkedIn)](www.linkedin.com/in/mariaeduardasales)
-E-mail: mari.amirandadev@gmail.com
+E-mail: maria.mirandadev@gmail.com
 
